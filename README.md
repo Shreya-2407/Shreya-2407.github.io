@@ -10,7 +10,7 @@ I have completed my schooling from St. Anthony's Junior College , Agra and I am 
 My hobbies include:
 1. C++
 9. DSA
-. Table Tennis
+8. Table Tennis
    
 Links to my profile :
    
