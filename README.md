@@ -12,14 +12,14 @@ Links to my profile :
 
 [Instagram](https://instagram.com/shreyaagarwal249?igshid=ZDdkNTZiNTM=)
 
-##Education
+## Education
 
 
 ________________________________________________
 | Academic year|standard|Institute
 |-----|-----------------|---------|
 |2021|class 12|St Anthony's jr college
-|-----------|--------------|--------|
+|----|------------------|---------|
 |2026|Btech|IIT Goa
 
 
