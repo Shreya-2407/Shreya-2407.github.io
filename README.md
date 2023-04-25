@@ -23,7 +23,7 @@ ________________________________________________
 |2026|Btech|IIT Goa
 
 
-##Course@IITGoa
+## Course@IITGoa
 
 
 List of courses:
